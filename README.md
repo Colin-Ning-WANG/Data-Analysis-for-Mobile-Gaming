@@ -52,4 +52,4 @@
 
 ## 参考资料
 Yasin Hatiboğlu  https://www.linkedin.com/in/tyhat/ Match3 Level Analysis Workshop  
-Game Analytics Retention and Monetization in Free-to-Play Mobile Games - Russell Ovans  
+Russell Ovans  Game Analytics Retention and Monetization in Free-to-Play Mobile Games
